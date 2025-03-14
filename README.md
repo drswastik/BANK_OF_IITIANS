@@ -39,8 +39,8 @@ The project consists of the following files:
 - atm.txt: The file that stores debit card information, including account IDs, card numbers, and PINs.
 
 ## Contributors:
-1)Swastik Panigrahi-23CE01056
-2)Swastik Panda-23CE01055
-3)Bibhu Biswajit Jena-23CE01015
-4)Sambit Mohanty-23CE01048
+1)Swastik Panigrahi
+2)Swastik Panda
+3)Bibhu Biswajit Jena
+4)Sambit Mohanty
 
